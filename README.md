@@ -1,6 +1,6 @@
 # MySOQL2 v1.2 MVP — Salesforce SOQL Desktop Query Tool
 
-![Screenshot from 2022-03-22 15-50-28](https://user-images.githubusercontent.com/79295034/159589247-8a446578-e7ff-46c6-85a3-48625e4d5682.png)
+![Screenshot](screenshot.png)
 
 A Java Swing REST/HTTP desktop query tool for Salesforce SOQL queries.
 **MVP (Minimum Viable Product) edition** — subset of features for essential SOQL work.
