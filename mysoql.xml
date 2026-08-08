@@ -12,6 +12,7 @@
         <translationLength>4096</translationLength> <!-- Translation limit of 4K characters (default 0 no limit)  -->
         <lcsd>tika</lcsd>                           <!-- lcsd oracle or tika (default tika)                       -->
         <browserPath>/opt/google/chrome/chrome</browserPath>
+        <publicAccess>false</publicAccess>            <!-- true=full features, false=MVP subset only                -->
         <connectTimeout>45</connectTimeout>         <!-- HTTP connection timeout in seconds                       -->
     </globalProps>
 </query>
