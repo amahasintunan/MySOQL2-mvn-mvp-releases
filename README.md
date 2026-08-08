@@ -55,11 +55,3 @@ The following features are disabled in this MVP edition:
 - Batch Delete
 
 For full feature access, use the standard [MySOQL2-mvn-releases](https://github.com/amahasintunan/MySOQL2-mvn-releases) edition.
-
-## Oracle support (optional)
-
-Oracle JDBC driver and i18n LCSD jars are NOT bundled (Oracle OTN license). To enable:
-
-1. Download `ojdbc11.jar` from [Oracle JDBC](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html)
-2. Place it in the `misc/` directory
-3. The launcher scripts auto-detect it
